@@ -1,4 +1,4 @@
-# snakescapevk
+# SnakEscape: Escape from the Snake (VK Games Test Bed)
 
 SnakEscape WEBGL build for future release on VK Games Catalogue.
 
