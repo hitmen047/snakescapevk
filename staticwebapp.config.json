@@ -1,10 +1,4 @@
 {
-  "routes": [
-  {
-      "route": "/builds/*",
-      "rewrite": "gzip"
-  }
-  ],
   "mimeTypes": {
     ".data.gz": "application/octet-stream"
 	".wasm.gz": "application/wasm"
