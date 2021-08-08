@@ -1,4 +1,4 @@
-# SnakEscape: Escape from the Snake (VK Games Test Bed)
+# SnakEscape: Escape from the Snake [![Azure Static Web Apps CI/CD](https://github.com/hitmen047/snakescapevk/actions/workflows/azure-static-web-apps-happy-sea-020740003.yml/badge.svg)](https://github.com/hitmen047/snakescapevk/actions/workflows/azure-static-web-apps-happy-sea-020740003.yml)
 
 SnakEscape WEBGL build for future release on VK Games Catalogue.
 
