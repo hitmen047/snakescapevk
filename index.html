@@ -56,16 +56,16 @@
       }
 
       var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/Build_WebGL.asm.loader.js";
+      var loaderUrl = buildUrl + "/SnakEscape_WebGL_Interval.asm.loader.js";
       var config = {
-        dataUrl: buildUrl + "/Build_WebGL.data.unityweb",
-        frameworkUrl: buildUrl + "/Build_WebGL.asm.framework.js.unityweb",
-        codeUrl: buildUrl + "/Build_WebGL.asm.js.unityweb",
-        memoryUrl: buildUrl + "/Build_WebGL.asm.mem.unityweb",
+        dataUrl: buildUrl + "/SnakEscape_WebGL_Interval.data.unityweb",
+        frameworkUrl: buildUrl + "/SnakEscape_WebGL_Interval.asm.framework.js.unityweb",
+        codeUrl: buildUrl + "/SnakEscape_WebGL_Interval.asm.js.unityweb",
+        // memoryUrl: buildUrl + "/SnakEscape_WebGL_Interval.asm.mem.unityweb",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "Rock Path Collective",
         productName: "SnakEscape",
-        productVersion: "1.9.15",
+        productVersion: "1.9.25",
         showBanner: unityShowBanner,
       };
 
@@ -100,7 +100,7 @@
         canvas.style.height = "600px";
       }
 
-      canvas.style.background = "url('" + buildUrl + "/Build_WebGL.jpg') center / cover";
+      canvas.style.background = "url('" + buildUrl + "/SnakEscape_WebGL_Interval.jpg') center / cover";
       loadingBar.style.display = "block";
 
       var script = document.createElement("script");
